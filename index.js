@@ -26,9 +26,9 @@ app.get('/courses/:id', (req, res) => {
     const selectedcourses = courses.find(course => course._id === id);
     res.send(selectedcourses);
 });
-app.get('/categories/:id', (req, res) => {
-    console.log(req.params.id)
-    // const id = req.params.id;
+app.get('/cheakout/:id', (req, res) => {
+    // console.log(req.params.id)
+    const id = req.params.id;
     const selectedCategories = courses.find(course => course.category_id === id);
     res.send(selectedCategories);
 })

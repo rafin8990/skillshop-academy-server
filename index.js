@@ -21,10 +21,10 @@ app.get('/course-catagories', (req, res )=>{
 res.send(catagories);
 });
 app.get('/courses/:id', (req, res)=>{
+    // console.log(req.params.id)
     const id =req.params.id;
-    const selectedcourses = courses.find(course=>course._id==id );
+    const selectedcourses = courses.find(course=>course._id === id );
     res.send(selectedcourses);
-
 });
 
 app.listen(port,()=>{

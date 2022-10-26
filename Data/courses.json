@@ -4,6 +4,7 @@
       "category_id": "01",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
+      "amount":"$1000",
       "image":"https://areknawo.com/content/images/2020/09/cover-01.png",
       "title": "Javascript Learning",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
@@ -12,6 +13,7 @@
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
       "category_id": "02",
+      "amount":"$1000",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "image":"https://www.programmerspoint.in/images/angular-course.jpg",
@@ -22,6 +24,7 @@
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
       "category_id": "03",
+      "amount":"$1000",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "image":"https://media.talentbattle.in/Files/C4U_Images/C4U_COMPANIES_LOGOS/19/Artboard%201%20copy%208-min.jpg",
@@ -32,6 +35,7 @@
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
       "category_id": "04",
+      "amount":"$1000",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "image":"https://listabsolute.com/wp-content/uploads/2019/09/How-to-become-a-linux-system-adminastrator-730x400.jpg",
@@ -42,6 +46,7 @@
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
       "category_id": "05",
+      "amount":"$1000",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "image":"https://contentstatic.techgig.com/photo/90078705.cms",
@@ -52,6 +57,7 @@
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
       "category_id": "06",
+      "amount":"$1000",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "image":"https://www.cnet.com/a/img/resize/e97f08caa05cc00998d2f45a91f865ab0208e57a/hub/2020/07/02/b678e7af-29e6-41d4-8c59-720322973a32/python-skillshare-1.jpg?auto=webp&fit=crop&height=528&width=940",
